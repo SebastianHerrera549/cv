@@ -102,4 +102,5 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 
 
 ---
-⌨️ with ❤️ by [joedroav](https://github.com/joedroav) 😊
+todos los derechos para el creador del contenido 
+⌨️ [joedroav](https://github.com/joedroav) 😊
